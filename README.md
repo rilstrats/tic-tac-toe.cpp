@@ -10,7 +10,7 @@
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](http://youtube.com)
 
 ## Relational Database
 
@@ -27,8 +27,10 @@
 ## Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [C++ Module Description](https://byui-cse.github.io/cse310-course/modules/module_descriptions.html#m_cpp)
+* [C++ Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
+* [C++ W3 Schools](https://www.w3schools.com/cpp/)
+* [C++ Website](http://www.cplusplus.com/reference/stl/)
 
 ## Future Work
 
