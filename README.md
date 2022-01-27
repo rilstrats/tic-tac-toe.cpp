@@ -29,7 +29,7 @@
 {Make a list of websites that you found helpful in this project}
 * [C++ Module Description](https://byui-cse.github.io/cse310-course/modules/module_descriptions.html#m_cpp)
 * [C++ Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
-* [C++ W3 Schools](https://www.w3schools.com/cpp/)
+* [C++ W3 Schools](https://www.w3schools.com/cpp/cpp_examples.asp)
 * [C++ Website](http://www.cplusplus.com/reference/stl/)
 
 ## Future Work
