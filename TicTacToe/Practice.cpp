@@ -46,7 +46,24 @@ int main()
     sum = x + y;
     cout << "Sum is: " << sum;*/
 
-    
+    int myNum = 5;
+    cout << "int: " << myNum << endl;
+
+    float myFloat = 5.99;
+    cout << "float: " << myFloat << endl;
+
+    double myDouble = 5.98;
+    cout << "double: " << myDouble << endl;
+
+    char myLetter = 'D';
+    cout << "letter: " << myLetter << endl;
+
+    bool myBool = true;
+    cout << "bool: " << myBool << endl;
+
+    string myString = "Hello";
+    cout << "string: " << myString << endl;
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
