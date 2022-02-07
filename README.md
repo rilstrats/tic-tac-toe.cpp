@@ -2,9 +2,9 @@
 
 ## Overview
 
-In order to gain a greater understanding of C++ I have created a Tic Tac Toe game in C++. This gave me a basic understanding of how classes, variables, and functions work in C++.
+In order to gain a greater understanding of C++ I have developed Tic Tac Toe in C++. This gave me a basic understanding of how classes, variables, and functions work in C++.
 
-[Tic Tac Toe in C++ Demo](http://youtube.com)
+[Tic Tac Toe in C++ Demo](https://youtu.be/LGKADLEXYlw)
 
 
 ## Development Environment
